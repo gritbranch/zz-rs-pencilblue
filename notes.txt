@@ -1,0 +1,1 @@
+1. Make sure siteRoot and db for config.js are properly configured.
